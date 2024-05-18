@@ -9,8 +9,6 @@ Build the loader that has the most simple code
 $gcc -o get long_loader.c
 ```
 
-----
-
 
 <!--Protocol layer cake
 
